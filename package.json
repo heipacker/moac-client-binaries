@@ -1,7 +1,7 @@
 {
-  "name": "ethereum-client-binaries",
+  "name": "moac-client-binaries",
   "version": "1.6.2",
-  "description": "Download Ethereum client binaries for your OS",
+  "description": "Download Moac client binaries for your OS",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --timeout 180000 --ui exports --reporter spec test/*.test.js",
